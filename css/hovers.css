@@ -1,0 +1,25 @@
+.btn-yellow:active {
+  outline: none !important;
+}
+
+.btn-yellow:hover,
+.btn-yellow-counter:hover {
+  background-color: #ffc107;
+}
+
+.btn-yellow:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.btn {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.btn:active,
+.btn:focus {
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+/*# sourceMappingURL=hovers.css.map */

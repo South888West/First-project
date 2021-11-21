@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,700;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ballet&display=swap");
+@import url(hovers.css);
+@import url(nullstyle.css);
+@import url(fonts.css);
+@import url(media.css);
+@import url(courier.css);
+.text-and-button-main {
+  max-width: 500px;
+  margin-top: 8rem;
+}
+
+.wrap-page-one {
+  background-image: url(../img/back-2jpg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 60vh;
+}
+
+.advantages {
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.counter-table {
+  -webkit-box-flex: 1;
+      -ms-flex: auto;
+          flex: auto;
+  min-width: 170px;
+  max-width: 280px;
+  line-height: 50px;
+  font-size: 20px;
+  text-align: center;
+  background: #ebebeb;
+  color: #2f2f2f;
+}
+
+.rent-a-car {
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.rent-a-car .six-rem {
+  height: 4rem;
+}
+
+.card {
+  background-image: none;
+  background-color: #fff;
+}
+
+.card-header {
+  background-image: none;
+  background-color: #fff;
+}
+
+.card-body {
+  background-image: none;
+  background-color: #fff;
+}
+
+.start-work {
+  background-image: url(../img/ahaha.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.num-yellow {
+  width: 48px;
+  background-color: #ffdf39;
+  color: #222;
+  text-align: center;
+  font-size: 34px;
+  font-weight: 700;
+  border-radius: 90px;
+  margin-top: 2rem;
+}
+/*# sourceMappingURL=style.css.map */

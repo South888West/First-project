@@ -1,0 +1,21 @@
+* {
+  font-family: "ubuntu, sans-serif";
+  list-style: none;
+}
+
+* img {
+  border-radius: 0 !important;
+}
+
+* a,
+* a:hover,
+* a:visited,
+* a:active,
+* button:active,
+* input {
+  outline: none !important;
+  text-decoration: none;
+  color: inherit;
+  border: none;
+}
+/*# sourceMappingURL=nullstyle.css.map */

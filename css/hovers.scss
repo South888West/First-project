@@ -1,0 +1,17 @@
+.btn-yellow:active {
+  outline: none !important;
+}
+.btn-yellow:hover,
+.btn-yellow-counter:hover {
+  background-color: #ffc107;
+}
+.btn-yellow:focus {
+  box-shadow: none;
+}
+.btn {
+  box-shadow: none;
+}
+.btn:active,
+.btn:focus {
+  box-shadow: none !important;
+}

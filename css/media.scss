@@ -1,0 +1,40 @@
+@media only screen and (max-width: 500px) {
+  .big-font {
+    font-size: 28px !important;
+  }
+  .big-font-black {
+    font-size: 32px !important;
+  }
+  .text-bold {
+    font-size: 24px;
+  }
+  .text-and-button-main {
+    margin-top: 6rem;
+  }
+  .wrap-page-one {
+    // background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    // background-image: linear-gradient(to right, #434343 0%, black 100%);
+    background-image: url(../img/sale1.png);
+    overflow: hidden;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .orig-img {
+    max-width: 100%;
+  }
+  .six-rem {
+    height: 1rem;
+  }
+  .btn-yellow {
+    width: 100%;
+  }
+  .start-work {
+    background-image: url(../img/back-2jpg.jpg) !important;
+  }
+  .back-form-wrap {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left !important;
+  }
+}
